@@ -23,3 +23,6 @@ Provide instructions and examples for use. Include screenshots as needed.
 ![pw must be between 8-128 char](https://github.com/lndvng/pw-generator/assets/141216114/79299c11-b11a-4343-bc39-5d1669eb3293)
 6. If at least one password criteria is not chosen. alert message will appear
 ![must select one criteria](https://github.com/lndvng/pw-generator/assets/141216114/5264bd11-8094-4e7f-b2dd-44d331c1c24e)
+
+## Deployment Link
+https://lndvng.github.io/pw-generator/
