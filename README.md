@@ -1,4 +1,4 @@
-# Pw-Generator
+# Random-Password-Gen
 
 ## Description
 
