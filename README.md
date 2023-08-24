@@ -22,7 +22,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 5. If password length does not meet criteria, alert message will appear
 
-![pw must be between 8-128 char](https://github.com/lndvng/pw-generator/assets/141216114/79299c11-b11a-4343-bc39-5d1669eb3293)
+<img href=(https://github.com/lndvng/pw-generator/assets/141216114/79299c11-b11a-4343-bc39-5d1669eb3293)>
 
 6. If at least one password criteria is not chosen. alert message will appear
 
