@@ -25,4 +25,4 @@ Provide instructions and examples for use. Include screenshots as needed.
 ![must select one criteria](https://github.com/lndvng/pw-generator/assets/141216114/5264bd11-8094-4e7f-b2dd-44d331c1c24e)
 
 ## Deployment Link
-https://lndvng.github.io/pw-generator/
+https://lndvng.github.io/random-password-gen/
